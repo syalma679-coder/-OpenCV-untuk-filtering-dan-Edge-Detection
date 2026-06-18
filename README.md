@@ -21,10 +21,7 @@ Beberapa proses deteksi tepi untuk implementasi Edge Detection diantara lain seb
 2. Google Colab, sebagai tempat untuk ngoding secara online,
 3. Python, bahasa yang digunakan,
 4. Gambar atau foto, sebagai bahan untuk praproses citra dalam bentuk JPG, JPEG, atau PNG, dan
-5. Library dalam Colab, beberapa library yang akan digunakan yaitu:
-   a. OpenCV, digunakan untuk tugas vision komputer seperti pemrosesan gambar,
-   b. Numpy, digunakan untuk operasi numerik khususnya pada array, dan
-   c. Matplotlib, digunakan untuk membuat visualisasi menampilkan gambar. 
+5. Library dalam Colab, beberapa library yang akan digunakan yaitu: OpenCV digunakan untuk tugas vision komputer seperti pemrosesan gambar, Numpy digunakan untuk operasi numerik khususnya pada array, dan Matplotlib digunakan untuk membuat visualisasi menampilkan gambar. 
 
 ## 🖼️ Tampilan Hasil
 ![Homepage](coding/hasil.png)
